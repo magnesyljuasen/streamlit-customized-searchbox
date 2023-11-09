@@ -124,7 +124,7 @@ function buildStyleSelect(theme: any): any {
           : theme.backgroundColor,
         // option text
         color: theme.textColor,
-        cursor: isDisabled ? "not-allowed" : "Search ...",
+        cursor: isDisabled ? "not-allowed" : "123 ...",
       };
     },
   };
